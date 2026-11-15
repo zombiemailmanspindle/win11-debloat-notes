@@ -1,0 +1,9 @@
+{
+  "product": "Win11 Debloat Notes",
+  "version": "6.6.5",
+  "channel": "stable",
+  "updated": "2026-11-15",
+  "mirror_region": "eu-west",
+  "auto_update": true,
+  "telemetry": false
+}
