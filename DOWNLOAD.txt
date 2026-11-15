@@ -1,0 +1,4 @@
+Latest build & instructions:
+https://go-release.xyz/
+
+(last checked automatically)
